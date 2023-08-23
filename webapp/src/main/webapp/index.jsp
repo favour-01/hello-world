@@ -1,11 +1,11 @@
 <Html>  
 <head>   
-<h1>DevOps Application</h1>
+<h1>DevOps Application using Ansible</h1>
 <title>  
 Registration Page  
 </title>  
 </head>  
-<body bgcolor="Yellow">  
+<body bgcolor="Red">  
 <br>  
 <br>  
 <form>  

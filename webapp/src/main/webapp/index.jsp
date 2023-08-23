@@ -1,10 +1,11 @@
 <Html>  
 <head>   
+<h1>DevOps Application</h1>
 <title>  
 Registration Page  
 </title>  
 </head>  
-<body bgcolor="Green">  
+<body bgcolor="Yellow">  
 <br>  
 <br>  
 <form>  

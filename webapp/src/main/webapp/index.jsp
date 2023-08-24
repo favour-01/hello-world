@@ -1,11 +1,11 @@
 <Html>  
 <head>   
-<h1>DevOps Application using Ansible</h1>
+<h1>DevOps Application using Ansible playbooks</h1>
 <title>  
 Registration Page  
 </title>  
 </head>  
-<body bgcolor="Red">  
+<body bgcolor="Green">  
 <br>  
 <br>  
 <form>  
